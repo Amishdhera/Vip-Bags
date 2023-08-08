@@ -1,0 +1,154 @@
+.non{
+    background-color:rgba(128, 128, 128, 0.671) ;
+    height: 60px;
+    width:100%;
+    display: flex;
+justify-content: center;
+align-items: center;
+border: 5px solid black ;
+background-image: url(./fgfhfydh/photo-1533109721025-d1ae7ee7c1e1.avif);
+}
+    .pot{
+        height:50px;
+        width:100%;
+        background-color: rgba(0, 0, 0, 0.568);
+        color: rgb(255, 252, 252);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-transform: uppercase;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: 5px solid black ;
+        background-image: url(./fgfhfydh/photo-1533109721025-d1ae7ee7c1e1.avif);
+    }
+    .poc{
+        
+        height: 190px;
+    width:190px;
+    background-image: url(./fgfhfydh/278-2785789_man-full-length-gesture-isolated-man-presenting-silhouette.png);
+    border: 5px solid black ;
+    }
+
+    
+    .nav{
+        color: rgb(255, 247, 247);
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-image: url(./photo-1533109721025-d1ae7ee7c1e1.avif);
+        
+    }
+    .date{
+        height:350px;
+        width:100%;
+        background-color: rgb(102, 102, 102) ;
+        border: 5px solid black ;
+        color: aliceblue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url(./fgfhfydh/back.avif);
+}
+ .sam{
+    height: 50px;
+    width:100%;
+    background-image: url(./fgfhfydh/istockphoto-668606726-612x612.jpg);
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    border:5px solid rgb(0, 0, 0) ;
+ }
+ .ject{
+
+background-color: black;
+height:480px;
+width:100%;
+background-image: url(./fgfhfydh/image-19.webp);
+border:5px solid black ;
+color:rgba(27, 128, 211, 0.993) ;
+display: flex;
+align-items: center;
+justify-content: center;
+ }
+ .bar{
+    height:170px;
+    width:100%;
+    background-image: url(./fgfhfydh/a-navigation-bar-dropdown-menu.jpg);
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border: 5px solid black ;
+ }
+.abt{
+height: 400px;
+width:100% ;
+    background-color:lightcoral;
+    background-image: url(./fgfhfydh/back.avif);
+    background-repeat: no-repeat;
+    border: 5px solid black ;
+    color:white ;
+
+
+
+
+}
+.out{
+    height:50px;
+    width:25%;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fgfhfydh/photo-1533109721025-d1ae7ee7c1e1.avif);
+    color:snow ;
+    border: 5px solid rgb(0, 0, 0) ;}
+  
+.nin{
+    height: 50px;
+    width:100%;
+    background-image: url(./fgfhfydh/photo-1533109721025-d1ae7ee7c1e1.avif);
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    border:5px solid rgb(0, 0, 0) ;
+    border: 5px solid black ;
+}
+.tem{
+    height:156px;
+    width:270px;
+    background-image: url(./fgfhfydh/download.jfif);
+    background-repeat: no-repeat;
+    border: 5px solid black;
+}
+.com{
+
+height:70px;
+width:100%;
+background-color: blanchedalmond;
+background-image: url(./fgfhfydh/photo-1533109721025-d1ae7ee7c1e1.avif);
+display: flex;
+justify-content: center;
+align-items:center;
+color: white;
+border: 5px solid black;
+
+}
+.fom{
+    height:300px;
+    width: 100%;
+    background-color: yellowgreen;
+    background-image: url(./fgfhfydh/back.avif);
+    color: white;
+}
+.btn{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white ;
+
+}
